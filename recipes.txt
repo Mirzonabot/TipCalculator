@@ -2,7 +2,10 @@ Welcome to Telusco kitchen
 
 keer pasta
 
-chicken fri
+chicken fry
+
+
+
 
 Beans
 Pizza
@@ -10,4 +13,8 @@ Pizza
 
 thank you
 
+
 done my changes
+
+Final copy
+
